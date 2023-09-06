@@ -54,7 +54,7 @@ class _StoryPageState extends State<StoryPage> {
               Expanded(
                 flex: 2,
                 child: Container(
-                    color: Colors.orange,
+                    color: Colors.red,
                   child: TextButton(
                     onPressed: () {
                       setState(() {
